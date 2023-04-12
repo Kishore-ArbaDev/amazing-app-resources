@@ -11,4 +11,4 @@ The AmazingTag platform delivers a unique encoded AMAZING_TAG™ in to a song, s
 
 ## App Screens
 
-![App Screens](https://github.com/Kishore025/DataStructures-And-Algorithms/blob/master/Cheatsheet/2-BigOTrend.png)
+![App Screens](https://github.com/Kishore-ArbaDev/amazing-app-resources/blob/main/AmazingAppScreenshots/App%20Screens.png)
