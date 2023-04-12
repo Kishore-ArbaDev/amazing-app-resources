@@ -8,6 +8,11 @@ The AmazingTag platform delivers a unique encoded AMAZING_TAG™ in to a song, s
 - npm (included with Node.js)
 - rvm version 2.7.6 
 
+## To Start application
+
+- Android : npx react-native run-android
+- iOS : npx react-native run-iOS
+
 
 ## App Screens
 
