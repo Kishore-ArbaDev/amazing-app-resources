@@ -20,4 +20,4 @@ The AmazingTag platform delivers a unique encoded AMAZING_TAG™ in to a song, s
 
 ## Ripple Animation
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://github.com/Kishore-ArbaDev/amazing-app-resources/blob/main/AmazingAppScreenshots/AppAnimation.gif)
